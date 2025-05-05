@@ -1,0 +1,6 @@
+.env
+vendor/
+.idea/
+public/storage/documents/
+storage/
+composer.lock
